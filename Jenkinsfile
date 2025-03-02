@@ -26,14 +26,14 @@ pipeline {
 
         stage('Clonar código') {
             steps {
-                echo "🛠 Clonando la rama '${BRANCH}' desde el repositorio..."
+                echo "Clonando la rama '${BRANCH}' desde el repositorio..."
                 git url: 'https://github.com/jenkins-docs/simple-java-maven-app.git', branch: "${BRANCH}"
             }
         }
 
         stage('Compilar') {
             steps {
-                echo "🚀 Iniciando compilación con Maven..."
+                echo "Iniciando compilación con Maven..."
                 sh 'mvn clean package'
             }
         }
