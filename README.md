@@ -67,7 +67,25 @@ now its time to add the parameter of brnch creating a new pipeline
 
 
 4. v
-   
+
+for this point we have to run a pipeline from a github repository, so the pipeline is crated in a new archive called jerkingd
+the first thing to do is to create the new task
+   ![image](https://github.com/user-attachments/assets/8c5c2a09-3f67-4805-8a8d-3da31296c14c)
+
+   ![image](https://github.com/user-attachments/assets/0b4cd4f3-c652-43a8-935d-d2e1472406e0)
+   is important to specify thre repository and the principal branch
+
+   ![image](https://github.com/user-attachments/assets/61026541-f0fa-4b11-b79f-470858d828b6)
+
+then is time to run the task
+
+   ![image](https://github.com/user-attachments/assets/414b85bc-fae2-461c-ac29-5b164fae10c1)
+   ![image](https://github.com/user-attachments/assets/5051b212-a375-418a-acdf-18659970cadd)
+
+
+
+
+
 
 
 
