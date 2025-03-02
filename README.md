@@ -35,15 +35,47 @@ after that is time to initiate the docker agent
 ![image](https://github.com/user-attachments/assets/c72c8dd2-e541-43ec-80ac-2989b6a3cdbb)
 
 verify the conection
-![image](https://github.com/user-attachments/assets/afc82346-38d1-48a3-9797-eb3d9188e80a)
+![image](https://github.com/user-attachments/assets/09962ac0-dd18-4d8f-9e48-f83381238549)
+
 
 
 
 ##Part 3
+1.
 the first step for this part is create a neww pipeline
 ![image](https://github.com/user-attachments/assets/1a66b3ab-06e1-43a4-80fe-a8065b60d289)
 then add a script for clone a git repository
 ![image](https://github.com/user-attachments/assets/18c1f2f8-e661-41c6-a0b8-734f19300e7c)
+
+then we run the pipeline
+![image](https://github.com/user-attachments/assets/591d1789-0b7d-4635-87ef-9f2bdc908fdb)
+
+
+
+2.v
+
+now its time to create a new pipeline with the new conditions
+
+![image](https://github.com/user-attachments/assets/1946b663-b5f2-4abf-ad03-f2b4ec5f5c91)
+![image](https://github.com/user-attachments/assets/7b4b9fe9-993f-492b-80fc-d628eca9d0fb)
+![image](https://github.com/user-attachments/assets/7dd22034-d51b-4e11-865f-9b3cec687891)
+
+3,
+now its time to add the parameter of brnch creating a new pipeline
+![image](https://github.com/user-attachments/assets/a9eebdce-d390-4b39-9aa4-8d5563ebfec5)
+![image](https://github.com/user-attachments/assets/f78456d8-e8af-4609-889e-dcaf085bcc1b)
+
+
+4. v
+   
+
+
+
+
+
+
+
+
 
 
 
